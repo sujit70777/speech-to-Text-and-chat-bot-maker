@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cold Beer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="bluetooth_example">Bluetooth Example</string>
+    <string name="robotics_club">Robotics Club</string>
+    <string name="turn_on">Turn On</string>
+    <string name="get_visible">Get visible</string>
+    <string name="list_devices">List devices</string>
+    <string name="turn_off">turn off</string>
+    <string name="paired_devices">Paired devices:</string>
+    <string name="app_mode">App Mode</string>
+    <string name="close_app">Close App</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="show_paired_devices">Show paired Devices</string>
+    <string name="status_off">Status Off</string>
+    <string name="led1">LED ON</string>
+    <string name="disconnect_bluetooth">Disconnect Bluetooth</string>
+    <string name="led2">LED OFF</string>
+    <string name="title_activity_mmmmmmmmm">MMMMMMMMM</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="title_activity_speech_to_text">SpeechToText</string>
+</resources>
